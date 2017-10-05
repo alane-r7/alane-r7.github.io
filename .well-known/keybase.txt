@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/capndan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://moonbeam.city
+  * I am capndan (https://keybase.io/capndan) on keybase.
+  * I have a public key with fingerprint D1A6 BDFA DC73 0E51 7712  DE5E AC54 81D7 8D72 25E4
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e14cbbee6016fcdf6a7934df99e771f11fd72156c1d4edf5c8a0b31bb718972a0a",
+      "fingerprint": "d1a6bdfadc730e517712de5eac5481d78d7225e4",
+      "host": "keybase.io",
+      "key_id": "ac5481d78d7225e4",
+      "kid": "0101e14cbbee6016fcdf6a7934df99e771f11fd72156c1d4edf5c8a0b31bb718972a0a",
+      "uid": "503d7994c7ec2cea35540da26cb16400",
+      "username": "capndan"
+    },
+    "merkle_root": {
+      "ctime": 1507218413,
+      "hash_meta": "d3f8f7078bb7dddccdfad7c16281f9085e63f0740d8d4d2390018274b886bf5f",
+      "seqno": 1515081
+    },
+    "revoke": {
+      "sig_ids": [
+        "bdb9f576bc6b711dd39d66b9066e90c32488e5e2b024d7567f938c3e7d5debc10f"
+      ]
+    },
+    "service": {
+      "hostname": "moonbeam.city",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507218413,
+  "expire_in": 157680000,
+  "prev": "510ddcb4b251c931da9d88a7eb87847304c073cee83f3881c400bafe76046825",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMK4AnicrVNdbBVFGL2V0qZVEUJS9UGL++JLLTP7MzN7aQUbtAnGEDEFEeR2fr5p
+N/fe3WV375WKJdFEeDBBEOPPhaSGpMQSJcFoJKmxhviAqVZjzEUkwZJoBY08KPLg
+S51tMPGBR+dlM7PnO+d855v5/M5lhc6WXasPLez56EhPy+zZWq2wvfnU73stEakx
+q7jXKsPSByoK0qxUDpRVtBBGGLArhQAgCBMtlSac+o6rtO8DpVhjrBW1sUckVi4o
+7UnGkXCwEBQzn9occavH0kE4AkmcBGFmaBXmRCjNlaQOAg8bHluBB1x6LsOKMsNo
+e+CawtEozSuMOcFT6A0ic2Y2pSV7t8D/z75rS3QechT1fVdSkLYE7nieixS3iRSY
+uAjlwBSSkFfBoCWPQ8VDa7zHqkJSrkApiaIsz1ZmQY7AHjLKzMWO6Y+no6UqZDyP
+xdFMU0SZ8aCUkjKPiEpMbIa1j5gHxNGIGmmmXGU7PkKY2dQVjBGhPW1spLA7jHIF
+o8GwcZBAPSpDLp4GIya11CrusIQSvvYoEZKYbrFSjq8IET4iBHwkHdtlzIzDFsh2
+FfUI1b7DpANUeQqExEhbz47nYkk9kEvk+Zhutl+NolAAr/bKIBszluIkyiIZVcyv
+0SyLi3ku2VicQ58DUbpJUhJBqMwlMQV1SNIgCk0XBnmLyGBPHCRQCnKEaYIhs3IZ
+qOejwsgkJ1xhe1j6DlbcV4xxCoJR5prr5kpEHQnAHO0whqUZn+AaKEEuYbb3nwyJ
+8clHDKdJLuRZLQFr/OxnO1sLLZ2FtuW35a+n0Nmx8t83daOvfbGijqKtB0+seGXg
+8vLiQwsHG93v/PTt/q4nfpw6+cvsmfZfyyf1hi9W9VzZ8Nf3cXLPy5OfHnIn1913
+fNXPxYnBb047Q3/27Rt8+tzEsW0bt17af+Du+vrWufT8qYEv/77wfMm+q+vr6alu
++t3lq2vbsnmn0bJitnWu59rhYtx/un59evV7h7tePNLfmFz3wb7hr2qzH/72x/ym
+zW8sbtzSoYeu37/jot/sX//4lu3Hu6tDr8/3XmvufjNz17x/8ckfJtoLV89dunHH
+tpkDD0bNNfHEss3WY21zp670LjxSnnn37YcfGO589KVN0/Kt5oWpnecXj56ZGex7
+ZrgS3/7CseTegV2vffzqJ4UO0WigfwBL3YE0
+=IrQM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/capndan
+
+==================================================================
+
